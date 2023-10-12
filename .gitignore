@@ -1,0 +1,9 @@
+# Personal Data
+0-RawData/*
+1-ProcessedData/*
+2022_hikes.ipynb
+2022_hikes.ipynb
+OS_ReadMe.md
+# Checkpoints and temp files
+utils/__pycache__/*
+.ipynb_checkpoints/*
