@@ -67,7 +67,7 @@ Plots a list of hikes on a given background image and saves the visualization.
 
 ## Getting Started
 
-1. Clone the repository: `git clone gps_clustering_and_display`.
+1. Clone the repository.
 2. Navigate to the project directory.
 3. Install necessary libraries and dependencies.
 4. Place your hike data (TCX and GPX files) in the desired directory.
