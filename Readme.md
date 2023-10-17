@@ -3,7 +3,7 @@
 This project processes, clusters, and plots hike data. It retrieves hike data from a directory, clusters the hikes based on their starting points, and visualizes the hikes on maps. 
 A sample of the visualization:
 
-![Sample visualization Output](2-Images/sample_output.png)
+<img src="2-Images/sample_output.png" width="600" height="600" alt="Sample visualization Output">
 
 ## Key Functions
 
